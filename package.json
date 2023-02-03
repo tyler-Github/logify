@@ -1,0 +1,22 @@
+{
+  "name": "logifys",
+  "version": "1.0.1",
+  "description": "Let's make logs easier!",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-Github/logify.git"
+  },
+  "keywords": [
+    "Console"
+  ],
+  "author": "Tyler Reece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyler-Github/logify/issues"
+  },
+  "homepage": "https://github.com/tyler-Github/logify#readme"
+}
