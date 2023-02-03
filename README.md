@@ -1,5 +1,9 @@
 ### **LOGIFYS**
 
+[![Contributors][contributors-shield]][contributors-url]
+
+[![Issues][issues-shield]][issues-url]
+
 ------------
 
 ## Installation
@@ -69,4 +73,5 @@ for (var i = 0; i < points.length; i++) {
 It will print:
 
 ![Image](/package/Images/Count.png)
+
 
